@@ -1,0 +1,17 @@
+
+* {
+  font-family:arial;
+}
+.row-header-wrapper {
+  display:none;
+}
+.column-headers-background {
+  display:none;
+}
+table {
+   margin: 0 auto;
+   display: block;
+}
+input[type="search"] {
+   width:28%;
+}
